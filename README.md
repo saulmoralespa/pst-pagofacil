@@ -6,7 +6,7 @@ PSTPagoFacil Transactional API PHP
 Use composer package manager
 
 ```bash
-composer require saulmoralespa/pst-pagofacil
+composer require saulmoralespa/pstpagofacil
 ```
 
 #### Bootstrapping autoloader and instantiating
