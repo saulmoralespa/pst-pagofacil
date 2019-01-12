@@ -16,7 +16,7 @@ composer require saulmoralespa/pstpagofacil
 include_once __DIR__ . DIRECTORY_SEPARATOR . 'vendor' . DIRECTORY_SEPARATOR . 'autoload.php';
 
 // import client class
-use PSTPagoFacil\PSTPagoFacil
+use PSTPagoFacil\PSTPagoFacil;
 
 // create token in panel  menu "API Tokens" 
 $token_user = 'YOUR_TOKEN_USER';
